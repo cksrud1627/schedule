@@ -1,27 +1,53 @@
-<div class='scheduler'>
-  <div class='nav'>
-    <span class='month'>{{ month }}</span>
-    <span class='year'>{{ year }}</span>
-    <a href='?year={{ prevYear }}&month={{ prevMonth }}' class='nav_btn prev'>
-        <i class='xi-angle-left'></i>
-    </a>
-    <a href='?year={{ nextYear }}&month={{ nextMonth }}' class='nav_btn next'>
-      <i class='xi-angle-right'></i>
-    </a>  
-  </div>
-  <ul class='yoils'>
- {% for yoil in yoilEn %}
-   <li>{{ yoil }}</li>
- {% endfor %}
-  </ul>
+<div class='scheduler{% if todaySchedules.length > 0 %} today{% endif %}'>
+	<span class='add_schedule' onclick="yh.layer.popup('/schedule', 400, 500);">
+		<i class='xi-plus-square-o'></i>
+		일정 등록
+	</span>
+	<div class='nav'>
+		<span class='month'>{{ month }}</span>
+		<span class='year'>{{ year }}</span>
+		<a href='?year={{ prevYear }}&month={{ prevMonth }}' class='nav_btn prev'>
+			<i class='xi-angle-left'></i>
+		</a>
+		<a href='?year={{ nextYear }}&month={{ nextMonth }}' class='nav_btn next'>
+			<i class='xi-angle-right'></i>
+		</a>
+	</div>
 
-<ul class='days'>
-{% for day in days %}
- <li class='day' data-stamp='{{ day.stamp }}'>
-    <div class='no'>{{ day.day }}</div>
-    <div class='schedules'></div>
-  </li>
-{% endfor %}
-</ul>
+	<ul class='yoils'>
+	{% for yoil in yoilsEn %}
+		<li>{{ yoil }}</li>
+	{% endfor %}
+	</ul>
+
+	<ul class='days'>
+	{% for day in days %}
+		<li class='day' data-stamp='{{ day.stamp }}'>
+			<div class='no'>{{ day.day }}</div>
+			<div class='schedules'>
+			{% for color in colors %}
+
+				<div class='schedule{% if day.schedules[color].length == 0 %} none{% endif %}'{% if day.schedules[color].length > 0 %} style="background-color: {{ color }}; color : {{ fontColor[color] }};{% endif %}" data-color='{{ color }}'>
+				{% for s in day.schedules[color] %}
+						{{ s.title }}
+				{% endfor %}
+				</div>
+			{% endfor %}
+			</div>
+		</li>
+	{% endfor %}
+	</ul>
 </div>
-<!-- // scheduler -->
+<!--// scheduler -->
+© 2021 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
