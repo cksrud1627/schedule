@@ -1,0 +1,113 @@
+{"level":"info","message":"[11:32:34]데이터베이스 연결 성공"}
+{"level":"info","message":"[11:33:03]데이터베이스 연결 성공"}
+{"level":"info","message":"[11:33:05]데이터베이스 연결 성공"}
+{"level":"info","message":"[11:35:14]데이터베이스 연결 성공"}
+{"level":"error","message":"[11:46:23]Error: GET /favicon.ico는 없는 페이지 입니다.\n    at C:\\Users\\박찬경\\Desktop\\node_schedule\\app.js:49:17\n    at Layer.handle [as handle_request] (C:\\Users\\박찬경\\Desktop\\node_schedule\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\박찬경\\Desktop\\node_schedule\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\박찬경\\Desktop\\node_schedule\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (C:\\Users\\박찬경\\Desktop\\node_schedule\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\박찬경\\Desktop\\node_schedule\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at C:\\Users\\박찬경\\Desktop\\node_schedule\\node_modules\\express\\lib\\router\\index.js:635:15\n    at next (C:\\Users\\박찬경\\Desktop\\node_schedule\\node_modules\\express\\lib\\router\\index.js:260:14)\n    at Function.handle (C:\\Users\\박찬경\\Desktop\\node_schedule\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (C:\\Users\\박찬경\\Desktop\\node_schedule\\node_modules\\express\\lib\\router\\index.js:47:12)"}
+{"level":"error","message":"[11:46:23]GET /favicon.ico는 없는 페이지 입니다."}
+{"level":"info","message":"[11:50:26]데이터베이스 연결 성공"}
+{"level":"info","message":"[11:51:07]데이터베이스 연결 성공"}
+{"level":"info","message":"[11:53:54]데이터베이스 연결 성공"}
+{"level":"info","message":"[11:54:12]데이터베이스 연결 성공"}
+{"level":"info","message":"[11:55:09]데이터베이스 연결 성공"}
+{"level":"info","message":"[11:55:37]데이터베이스 연결 성공"}
+{"level":"info","message":"[12:03:46]데이터베이스 연결 성공"}
+{"level":"info","message":"[12:04:13]데이터베이스 연결 성공"}
+{"level":"info","message":"[12:04:30]데이터베이스 연결 성공"}
+{"level":"info","message":"[12:05:02]데이터베이스 연결 성공"}
+{"level":"info","message":"[12:05:56]데이터베이스 연결 성공"}
+{"level":"info","message":"[12:08:10]데이터베이스 연결 성공"}
+{"level":"info","message":"[12:08:41]데이터베이스 연결 성공"}
+{"level":"info","message":"[12:09:09]데이터베이스 연결 성공"}
+{"level":"info","message":"[12:09:42]데이터베이스 연결 성공"}
+{"level":"info","message":"[12:10:27]데이터베이스 연결 성공"}
+{"level":"error","message":"[12:10:32]TypeError: Assignment to constant variable.\n    at Object.getCalendar (C:\\Users\\박찬경\\Desktop\\node_schedule\\models\\scheduler.js:22:10)\n    at C:\\Users\\박찬경\\Desktop\\node_schedule\\routes\\index.js:9:19\n    at Layer.handle [as handle_request] (C:\\Users\\박찬경\\Desktop\\node_schedule\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\박찬경\\Desktop\\node_schedule\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\박찬경\\Desktop\\node_schedule\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (C:\\Users\\박찬경\\Desktop\\node_schedule\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\박찬경\\Desktop\\node_schedule\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (C:\\Users\\박찬경\\Desktop\\node_schedule\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\박찬경\\Desktop\\node_schedule\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\박찬경\\Desktop\\node_schedule\\node_modules\\express\\lib\\router\\index.js:174:3)"}
+{"level":"error","message":"[12:10:32]Assignment to constant variable."}
+{"level":"info","message":"[12:15:35]데이터베이스 연결 성공"}
+{"level":"info","message":"[12:15:53]데이터베이스 연결 성공"}
+{"level":"info","message":"[12:16:39]데이터베이스 연결 성공"}
+{"level":"info","message":"[12:19:33]데이터베이스 연결 성공"}
+{"level":"info","message":"[12:19:49]데이터베이스 연결 성공"}
+{"level":"info","message":"[12:20:04]데이터베이스 연결 성공"}
+{"level":"info","message":"[12:20:14]데이터베이스 연결 성공"}
+{"level":"info","message":"[12:20:25]데이터베이스 연결 성공"}
+{"level":"info","message":"[12:21:24]데이터베이스 연결 성공"}
+{"level":"info","message":"[12:41:19]데이터베이스 연결 성공"}
+{"level":"info","message":"[12:42:36]데이터베이스 연결 성공"}
+{"level":"error","message":"[12:42:43]TypeError: Assignment to constant variable.\n    at Object.getCalendar (C:\\Users\\박찬경\\Desktop\\node_schedule\\models\\scheduler.js:23:10)\n    at C:\\Users\\박찬경\\Desktop\\node_schedule\\routes\\index.js:9:19\n    at Layer.handle [as handle_request] (C:\\Users\\박찬경\\Desktop\\node_schedule\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\박찬경\\Desktop\\node_schedule\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\박찬경\\Desktop\\node_schedule\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (C:\\Users\\박찬경\\Desktop\\node_schedule\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\박찬경\\Desktop\\node_schedule\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (C:\\Users\\박찬경\\Desktop\\node_schedule\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\박찬경\\Desktop\\node_schedule\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\박찬경\\Desktop\\node_schedule\\node_modules\\express\\lib\\router\\index.js:174:3)"}
+{"level":"error","message":"[12:42:43]Assignment to constant variable."}
+{"level":"info","message":"[12:45:03]데이터베이스 연결 성공"}
+{"level":"info","message":"[12:45:27]데이터베이스 연결 성공"}
+{"level":"info","message":"[12:47:35]데이터베이스 연결 성공"}
+{"level":"info","message":"[12:48:39]데이터베이스 연결 성공"}
+{"level":"info","message":"[12:49:06]데이터베이스 연결 성공"}
+{"level":"error","message":"[12:49:08]Assignment to constant variable."}
+{"level":"error","message":"[12:49:08]TypeError: Assignment to constant variable.\n    at Object.getCalendar (C:\\Users\\박찬경\\Desktop\\node_schedule\\models\\scheduler.js:23:10)\n    at C:\\Users\\박찬경\\Desktop\\node_schedule\\routes\\index.js:9:19\n    at Layer.handle [as handle_request] (C:\\Users\\박찬경\\Desktop\\node_schedule\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\박찬경\\Desktop\\node_schedule\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\박찬경\\Desktop\\node_schedule\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (C:\\Users\\박찬경\\Desktop\\node_schedule\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\박찬경\\Desktop\\node_schedule\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (C:\\Users\\박찬경\\Desktop\\node_schedule\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\박찬경\\Desktop\\node_schedule\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\박찬경\\Desktop\\node_schedule\\node_modules\\express\\lib\\router\\index.js:174:3)"}
+{"level":"info","message":"[12:57:19]데이터베이스 연결 성공"}
+{"level":"info","message":"[12:59:29]데이터베이스 연결 성공"}
+{"level":"info","message":"[13:00:08]데이터베이스 연결 성공"}
+{"level":"info","message":"[13:01:17]데이터베이스 연결 성공"}
+{"level":"info","message":"[13:01:33]데이터베이스 연결 성공"}
+{"level":"info","message":"[13:02:45]데이터베이스 연결 성공"}
+{"level":"info","message":"[13:03:07]데이터베이스 연결 성공"}
+{"level":"info","message":"[13:03:22]데이터베이스 연결 성공"}
+{"level":"info","message":"[13:03:43]데이터베이스 연결 성공"}
+{"level":"info","message":"[13:04:12]데이터베이스 연결 성공"}
+{"level":"error","message":"[13:04:21]TypeError: Assignment to constant variable.\n    at Object.getCalendar (C:\\Users\\박찬경\\Desktop\\node_schedule\\models\\scheduler.js:23:10)\n    at C:\\Users\\박찬경\\Desktop\\node_schedule\\routes\\index.js:9:32\n    at Layer.handle [as handle_request] (C:\\Users\\박찬경\\Desktop\\node_schedule\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\박찬경\\Desktop\\node_schedule\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\박찬경\\Desktop\\node_schedule\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (C:\\Users\\박찬경\\Desktop\\node_schedule\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\박찬경\\Desktop\\node_schedule\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (C:\\Users\\박찬경\\Desktop\\node_schedule\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\박찬경\\Desktop\\node_schedule\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\박찬경\\Desktop\\node_schedule\\node_modules\\express\\lib\\router\\index.js:174:3)"}
+{"level":"error","message":"[13:04:21]Assignment to constant variable."}
+{"level":"error","message":"[13:06:11]Assignment to constant variable."}
+{"level":"error","message":"[13:06:11]TypeError: Assignment to constant variable.\n    at Object.getCalendar (C:\\Users\\박찬경\\Desktop\\node_schedule\\models\\scheduler.js:23:10)\n    at C:\\Users\\박찬경\\Desktop\\node_schedule\\routes\\index.js:9:32\n    at Layer.handle [as handle_request] (C:\\Users\\박찬경\\Desktop\\node_schedule\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\박찬경\\Desktop\\node_schedule\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\박찬경\\Desktop\\node_schedule\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (C:\\Users\\박찬경\\Desktop\\node_schedule\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\박찬경\\Desktop\\node_schedule\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (C:\\Users\\박찬경\\Desktop\\node_schedule\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\박찬경\\Desktop\\node_schedule\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\박찬경\\Desktop\\node_schedule\\node_modules\\express\\lib\\router\\index.js:174:3)"}
+{"level":"info","message":"[13:18:49]데이터베이스 연결 성공"}
+{"level":"error","message":"[13:19:47]Assignment to constant variable."}
+{"level":"error","message":"[13:19:47]TypeError: Assignment to constant variable.\n    at Object.getCalendar (C:\\Users\\박찬경\\Desktop\\node_schedule\\models\\scheduler.js:23:10)\n    at C:\\Users\\박찬경\\Desktop\\node_schedule\\routes\\index.js:9:32\n    at Layer.handle [as handle_request] (C:\\Users\\박찬경\\Desktop\\node_schedule\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\박찬경\\Desktop\\node_schedule\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\박찬경\\Desktop\\node_schedule\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (C:\\Users\\박찬경\\Desktop\\node_schedule\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\박찬경\\Desktop\\node_schedule\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (C:\\Users\\박찬경\\Desktop\\node_schedule\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\박찬경\\Desktop\\node_schedule\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\박찬경\\Desktop\\node_schedule\\node_modules\\express\\lib\\router\\index.js:174:3)"}
+{"level":"error","message":"[14:22:12]TypeError: Assignment to constant variable.\n    at Object.getCalendar (C:\\Users\\박찬경\\Desktop\\node_schedule\\models\\scheduler.js:23:10)\n    at C:\\Users\\박찬경\\Desktop\\node_schedule\\routes\\index.js:9:32\n    at Layer.handle [as handle_request] (C:\\Users\\박찬경\\Desktop\\node_schedule\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\박찬경\\Desktop\\node_schedule\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\박찬경\\Desktop\\node_schedule\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (C:\\Users\\박찬경\\Desktop\\node_schedule\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\박찬경\\Desktop\\node_schedule\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (C:\\Users\\박찬경\\Desktop\\node_schedule\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\박찬경\\Desktop\\node_schedule\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\박찬경\\Desktop\\node_schedule\\node_modules\\express\\lib\\router\\index.js:174:3)"}
+{"level":"error","message":"[14:22:12]Assignment to constant variable."}
+{"level":"info","message":"[14:31:11]데이터베이스 연결 성공"}
+{"level":"error","message":"[14:31:20]Assignment to constant variable."}
+{"level":"error","message":"[14:31:20]TypeError: Assignment to constant variable.\n    at Object.getCalendar (C:\\Users\\박찬경\\Desktop\\node_schedule\\models\\scheduler.js:23:10)\n    at C:\\Users\\박찬경\\Desktop\\node_schedule\\routes\\index.js:9:32\n    at Layer.handle [as handle_request] (C:\\Users\\박찬경\\Desktop\\node_schedule\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\박찬경\\Desktop\\node_schedule\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\박찬경\\Desktop\\node_schedule\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (C:\\Users\\박찬경\\Desktop\\node_schedule\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\박찬경\\Desktop\\node_schedule\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (C:\\Users\\박찬경\\Desktop\\node_schedule\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\박찬경\\Desktop\\node_schedule\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\박찬경\\Desktop\\node_schedule\\node_modules\\express\\lib\\router\\index.js:174:3)"}
+{"level":"info","message":"[15:29:28]데이터베이스 연결 성공"}
+{"level":"error","message":"[15:29:47]Assignment to constant variable."}
+{"level":"error","message":"[15:29:47]TypeError: Assignment to constant variable.\n    at Object.getCalendar (C:\\Users\\박찬경\\Desktop\\node_schedule\\models\\scheduler.js:23:10)\n    at C:\\Users\\박찬경\\Desktop\\node_schedule\\routes\\index.js:9:32\n    at Layer.handle [as handle_request] (C:\\Users\\박찬경\\Desktop\\node_schedule\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\박찬경\\Desktop\\node_schedule\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\박찬경\\Desktop\\node_schedule\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (C:\\Users\\박찬경\\Desktop\\node_schedule\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\박찬경\\Desktop\\node_schedule\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (C:\\Users\\박찬경\\Desktop\\node_schedule\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\박찬경\\Desktop\\node_schedule\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\박찬경\\Desktop\\node_schedule\\node_modules\\express\\lib\\router\\index.js:174:3)"}
+{"level":"info","message":"[15:31:30]데이터베이스 연결 성공"}
+{"level":"info","message":"[15:33:18]데이터베이스 연결 성공"}
+{"level":"info","message":"[15:34:14]데이터베이스 연결 성공"}
+{"level":"info","message":"[15:34:58]데이터베이스 연결 성공"}
+{"level":"info","message":"[15:36:12]데이터베이스 연결 성공"}
+{"level":"info","message":"[15:36:21]데이터베이스 연결 성공"}
+{"level":"info","message":"[15:37:51]데이터베이스 연결 성공"}
+{"level":"info","message":"[15:38:08]데이터베이스 연결 성공"}
+{"level":"info","message":"[15:39:12]데이터베이스 연결 성공"}
+{"level":"error","message":"[15:40:11]TypeError: Assignment to constant variable.\n    at Object.getCalendar (C:\\Users\\박찬경\\Desktop\\node_schedule\\models\\scheduler.js:23:10)\n    at C:\\Users\\박찬경\\Desktop\\node_schedule\\routes\\index.js:6:26\n    at Layer.handle [as handle_request] (C:\\Users\\박찬경\\Desktop\\node_schedule\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\박찬경\\Desktop\\node_schedule\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\박찬경\\Desktop\\node_schedule\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (C:\\Users\\박찬경\\Desktop\\node_schedule\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\박찬경\\Desktop\\node_schedule\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (C:\\Users\\박찬경\\Desktop\\node_schedule\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\박찬경\\Desktop\\node_schedule\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\박찬경\\Desktop\\node_schedule\\node_modules\\express\\lib\\router\\index.js:174:3)"}
+{"level":"error","message":"[15:40:11]Assignment to constant variable."}
+{"level":"info","message":"[15:49:13]데이터베이스 연결 성공"}
+{"level":"info","message":"[15:50:26]데이터베이스 연결 성공"}
+{"level":"info","message":"[15:53:53]데이터베이스 연결 성공"}
+{"level":"info","message":"[15:53:59]데이터베이스 연결 성공"}
+{"level":"info","message":"[15:56:27]데이터베이스 연결 성공"}
+{"level":"info","message":"[15:57:30]데이터베이스 연결 성공"}
+{"level":"info","message":"[16:07:29]데이터베이스 연결 성공"}
+{"level":"info","message":"[16:35:35]데이터베이스 연결 성공"}
+{"level":"info","message":"[16:38:47]데이터베이스 연결 성공"}
+{"level":"info","message":"[16:40:00]데이터베이스 연결 성공"}
+{"level":"info","message":"[16:42:05]데이터베이스 연결 성공"}
+{"level":"info","message":"[16:42:22]데이터베이스 연결 성공"}
+{"level":"info","message":"[16:43:08]데이터베이스 연결 성공"}
+{"level":"info","message":"[16:43:12]데이터베이스 연결 성공"}
+{"level":"info","message":"[16:45:32]데이터베이스 연결 성공"}
+{"level":"info","message":"[16:50:23]데이터베이스 연결 성공"}
+{"level":"info","message":"[16:51:02]데이터베이스 연결 성공"}
+{"level":"info","message":"[16:51:12]데이터베이스 연결 성공"}
+{"level":"info","message":"[16:51:22]데이터베이스 연결 성공"}
+{"level":"info","message":"[16:51:26]데이터베이스 연결 성공"}
+{"level":"info","message":"[17:05:13]데이터베이스 연결 성공"}
+{"level":"error","message":"[17:05:13]Assignment to constant variable."}
+{"level":"error","message":"[17:05:13]TypeError: Assignment to constant variable.\n    at Object.getCalendar (C:\\Users\\박찬경\\Desktop\\node_schedule\\models\\scheduler.js:25:10)\n    at C:\\Users\\박찬경\\Desktop\\node_schedule\\routes\\index.js:8:26\n    at Layer.handle [as handle_request] (C:\\Users\\박찬경\\Desktop\\node_schedule\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\박찬경\\Desktop\\node_schedule\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\박찬경\\Desktop\\node_schedule\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (C:\\Users\\박찬경\\Desktop\\node_schedule\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\박찬경\\Desktop\\node_schedule\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (C:\\Users\\박찬경\\Desktop\\node_schedule\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\박찬경\\Desktop\\node_schedule\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\박찬경\\Desktop\\node_schedule\\node_modules\\express\\lib\\router\\index.js:174:3)"}
+{"level":"info","message":"[17:22:36]데이터베이스 연결 성공"}
+{"level":"info","message":"[17:24:52]데이터베이스 연결 성공"}
+{"level":"info","message":"[17:25:01]데이터베이스 연결 성공"}
+{"level":"info","message":"[17:27:58]데이터베이스 연결 성공"}
+{"level":"info","message":"[17:34:32]데이터베이스 연결 성공"}
+{"level":"info","message":"[17:36:03]데이터베이스 연결 성공"}
+{"level":"info","message":"[17:36:21]데이터베이스 연결 성공"}
+{"level":"info","message":"[17:39:59]데이터베이스 연결 성공"}
+{"level":"info","message":"[17:42:30]데이터베이스 연결 성공"}
+{"level":"info","message":"[17:42:53]데이터베이스 연결 성공"}
